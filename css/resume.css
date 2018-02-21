@@ -145,3 +145,10 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+section#headbg {
+    background-image: url(../img/fpbg1.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+}
